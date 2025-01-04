@@ -1,0 +1,22 @@
+/* .name is for class */
+/* #name is for id */
+
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#secondElement {
+    color: blue;
+    font-size: 36px;
+}
+
+#thirdElement {
+    font-size: 24px;
+}
+
+#fourthElement {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
